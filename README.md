@@ -32,4 +32,3 @@
 - Swagger — анализ API-документации
 - Postman — создание коллекции, тест-ран, автопроверки
 - DevTools — анализ запросов и ответов
-÷ fast-delivery-api-testing

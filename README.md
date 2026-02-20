@@ -9,7 +9,7 @@
   - позитивных сценариев 
   - негативных сценариев 
   - структуры и содержимого XML-ответа
-- Создана [коллекция в Postman](fast-delivery-postman-collection.json)
+- Создана [коллекция в Postman](fast-delivery-api-functional-tests.postman_collection.json)
 - Оформлен [баг-репорт](fast-delivery-bug-report.pdf) по найденным дефектам
 
 ## Результаты
